@@ -1,0 +1,113 @@
+/* Mohirdev.uz Clone by Jahongir Murodboev */
+
+@font-face { 
+  font-family: Gilroy-Bold;
+  src: url(../fonts/Gilroy-Bold.ttf); 
+}
+@font-face { 
+  font-family: Gilroy-Medium;
+  src: url(../fonts/Gilroy-Medium.ttf); 
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+  font-family: 'Gilroy-Medium', sans-serif !important;
+}
+
+.my-btn {
+  box-shadow: 0px 2.5px 10px rgba(0, 0, 0, 0.2);
+  opacity: 0.8;
+}
+.my-btn:active {
+  opacity: 0.9;
+}
+
+.hero {
+  background-image: url(../img/hero-bg.jpg);
+}
+
+.my-text-h1 {
+  font-weight: 600;
+  color: #2D4359;
+}
+.my-text-p {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.2rem;
+  color: #727272;
+}
+
+.mybtn2 {
+  opacity: 0.8;
+}
+.mybtn2:hover {
+  opacity: 0.85;
+}
+.mybtn2:active {
+  opacity: 0.9;
+}
+
+.my-title {
+  color: #2D4359;
+}
+.my-link {
+  color: #3F5367;
+}
+.my-link:hover {
+  color: #ffffff;
+}
+.my-card {
+  background-color: #F5F8FA;
+}
+.my-card:hover {
+  background-color: #3294fd;
+}
+.my-card2 {
+  background-color: #F5F8FA;
+}
+.my-link2 {
+  color: #3F5367;
+}
+.my-span {
+  font-weight: 600;
+  font-size: 13px;
+  color: #2D4359;
+}
+.my-text-info {
+  margin-left: 20px;
+}
+
+.mycard {
+  background: linear-gradient(90deg, rgb(22, 43, 58) 47%, rgb(37, 63, 82) 100%);
+  color: #fff;
+}
+.mybutton {
+  background: #0470E2;
+  font-family: 'Inter', sans-serif;
+}
+
+.footer {
+  background-color: #162B3A;
+}
+.footer-info {
+  display: flex;
+  flex-direction: column;
+}
+.footer-info-num {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.75rem;
+}
+.list-style-none {
+  list-style-type: none;
+}
+.footer-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-icon {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+/* Mohirdev.uz Clone by Jahongir Murodboev */
